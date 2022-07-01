@@ -38,7 +38,7 @@ jobs:
         # and branches. But since there are new Rust releases far more often
         # than we change this project, it works.
         toolchain:
-          - "1.61.0"
+          - "1.62.0"
 
     steps:
       - name: Check out the repo
